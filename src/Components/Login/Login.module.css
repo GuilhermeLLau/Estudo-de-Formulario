@@ -1,0 +1,151 @@
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.header h1 {
+  font-size: 37px;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.header h2{
+  font-size: 28px;
+  font-weight: normal;
+}
+
+.formulario {
+  /* background-color: aqua; */
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  gap: .5rem;
+}
+
+.input {
+  width: 400px;
+  padding: 20px 15px;
+  border-radius: 5px;
+  border:1px solid #8E8383;
+  box-shadow: none;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.input::placeholder{
+  font-size: 1rem;
+  letter-spacing: 0.05rem;
+}
+
+.action {
+  font-size: 15px;
+  font-weight: bolder;
+  align-self: flex-end;
+  letter-spacing: 0.025rem;
+  color: #000;
+  transition: ease-in-out .2s;
+}
+
+.action:hover{
+  color: #6E77F6;
+}
+
+.button {
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #000;
+  padding: 15px;
+  border-radius: 5px;
+  margin-top: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+
+
+
+.span {
+  align-self: center;
+  font-size: 18px;
+  color: #000;
+  font-weight: bolder;
+  margin-top: 20px;
+}
+
+.span::after {
+  content: '';
+  width: 180px;
+  height: 1px;
+  display: inline-block;
+  background-color: #585858;
+  margin-left: 10px;
+  margin-bottom: 4px;
+
+}
+
+.span::before {
+  content: '';
+  width: 180px;
+  height: 1px;
+  display: inline-block;
+  background-color: #585858;
+  margin-right: 10px;
+  margin-bottom: 4px;
+}
+
+.linkSocials {
+  max-width: 100%;
+  display: flex;
+  margin: 10px auto;
+  gap: 2rem;
+  align-items: center;
+}
+
+.hyperlink {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  text-align: center;
+  transition: ease-in-out .3s;
+  border: 1px solid transparent;
+}
+
+.hyperlink:hover {
+  border: 1px solid #6E77F6;
+}
+
+.google {
+  margin-top: 14px;
+}
+.facebook {
+  margin-top: 13px;
+}
+.apple {
+  margin-top: 11px;
+}
+
+.registerAction {
+  align-self: center;
+  margin-top: 20px;
+  color: #585858;
+  margin-bottom: 30px;
+}
+
+.registerAction a {
+  color: #000;
+  font-weight: bold;
+  transition: ease-in-out .2s;
+}
+
+.registerAction a:hover {
+  color: #6E77F6;
+}
+
+.erro {
+  color: tomato;
+}
