@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/GuilhermeLLau/Esutdo-de-Formulaio.git/static/css/main.8fbe8f4d.css",
-    "main.js": "/GuilhermeLLau/Esutdo-de-Formulaio.git/static/js/main.bbb21ed1.js",
-    "static/media/GoogleLogo.svg": "/GuilhermeLLau/Esutdo-de-Formulaio.git/static/media/GoogleLogo.8f57c330c08e1e1b6b4b5357107748ce.svg",
-    "static/media/AppleLogo.svg": "/GuilhermeLLau/Esutdo-de-Formulaio.git/static/media/AppleLogo.6d2bf3c2c74c97d80cbc2ea72ff93166.svg",
-    "index.html": "/GuilhermeLLau/Esutdo-de-Formulaio.git/index.html",
-    "static/media/FacebookLogo.svg": "/GuilhermeLLau/Esutdo-de-Formulaio.git/static/media/FacebookLogo.31ffcff31d5c09e86fcd2c0732223941.svg",
-    "main.8fbe8f4d.css.map": "/GuilhermeLLau/Esutdo-de-Formulaio.git/static/css/main.8fbe8f4d.css.map",
-    "main.bbb21ed1.js.map": "/GuilhermeLLau/Esutdo-de-Formulaio.git/static/js/main.bbb21ed1.js.map"
+    "main.css": "/Estudo-de-Formulario/static/css/main.8fbe8f4d.css",
+    "main.js": "/Estudo-de-Formulario/static/js/main.1e6b18eb.js",
+    "static/media/GoogleLogo.svg": "/Estudo-de-Formulario/static/media/GoogleLogo.8f57c330c08e1e1b6b4b5357107748ce.svg",
+    "static/media/AppleLogo.svg": "/Estudo-de-Formulario/static/media/AppleLogo.6d2bf3c2c74c97d80cbc2ea72ff93166.svg",
+    "index.html": "/Estudo-de-Formulario/index.html",
+    "static/media/FacebookLogo.svg": "/Estudo-de-Formulario/static/media/FacebookLogo.31ffcff31d5c09e86fcd2c0732223941.svg",
+    "main.8fbe8f4d.css.map": "/Estudo-de-Formulario/static/css/main.8fbe8f4d.css.map",
+    "main.1e6b18eb.js.map": "/Estudo-de-Formulario/static/js/main.1e6b18eb.js.map"
   },
   "entrypoints": [
     "static/css/main.8fbe8f4d.css",
-    "static/js/main.bbb21ed1.js"
+    "static/js/main.1e6b18eb.js"
   ]
 }
